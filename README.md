@@ -1,5 +1,6 @@
-- <H3>👋 Hi, I’m PYAE PHYO KYAW ✨</H3>
+<H3>👋 Hi, I’m PYAE PHYO KYAW ✨</H3>
 <hr/>
+
 🧑🏻‍💻 C# / ASP.NET Core / Blazor
 <!---
 pyaephyokyaw-coding/pyaephyokyaw-coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
