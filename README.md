@@ -1,4 +1,4 @@
-<H3>👋 Hi, I’m PYAE PHYO KYAW ✨</H3>
+<H3>👋 PYAE PHYO KYAW ✨</H3>
 <hr/>
 
 🧑🏻‍💻 C# / ASP.NET Core / Blazor
